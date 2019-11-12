@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kinedu</string>
+    <string name="toolbarTextTittle">Crawling</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment_2">Hello blank fragment 2</string>
+    <string name="Alert_title">Error</string>
+    <string name="Alert_msg1">Check your connection</string>
+    <string name="Alert_msg2">Could not fetch data</string>
+    <string name="oktxt">OK</string>
+</resources>

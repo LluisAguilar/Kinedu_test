@@ -1,0 +1,56 @@
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar_return"
+    style="@style/Toolbar"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    app:contentInsetStart="0dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_marginStart="12dp"
+                android:id="@+id/back_arrow"
+                android:backgroundTint="@color/white"
+                style="@style/ImageView.toolbar"
+                android:contentDescription="@null"
+                android:background="@drawable/icon_back" />
+
+            <TextView
+                android:id="@+id/app_toolbar_title"
+                android:layout_marginTop="4dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="@string/toolbarTextTittle"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <Spinner
+        android:id="@+id/range_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    </LinearLayout>
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,12 @@
+
+`squid:CallToDeprecatedMethodN"8Remove this use of "SSLSocketFactory"; it is deprecated.(ÈÄŸï
+ksquid:CallToDeprecatedMethodN"CRemove this use of "ALLOW_ALL_HOSTNAME_VERIFIER"; it is deprecated.(ÈÄŸï
+squid:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹„Á¦ÿÿÿÿÿ
+˜squid:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”Ê•¡
+csquid:S00112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Gsquid:S44241"+Change this method so it throws exceptions.(¹„Á¦ÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áãÉ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¬¦Ùø
+Bsquid:S44247"+Change this method so it throws exceptions.(”Ê•¡
+Hsquid:S4423B",Change this code to use a stronger protocol.(…—Şùÿÿÿÿ
+esquid:CallToDeprecatedMethodK"8Remove this use of "sslSocketFactory"; it is deprecated.(ÛôÓÿÿÿÿÿ

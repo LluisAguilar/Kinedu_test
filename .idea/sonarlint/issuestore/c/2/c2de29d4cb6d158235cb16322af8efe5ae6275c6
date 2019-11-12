@@ -1,0 +1,12 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áãÉ
+lsquid:HiddenFieldCheck]"CRename "responseService" which hides the field declared at line 30.(¤µğ“8„º¼Şå-
+qsquid:S11922"NDefine a constant instead of duplicating this literal "Error request" 3 times.(Ø£âÊùÿÿÿÿ8„º¼Şå-
+ksquid:S11928"HDefine a constant instead of duplicating this literal "Error: " 3 times.(Ó¬Øşüÿÿÿÿ8„º¼Şå-
+qsquid:S11922"NDefine a constant instead of duplicating this literal "response_data" 8 times.(Ø£âÊùÿÿÿÿ8³Ş‹ñå-
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(áèÅŸşÿÿÿÿ8´ÔñŞå-
+lsquid:HiddenFieldCheckB"CRename "responseService" which hides the field declared at line 30.(¤µğ“8©¥¿Ûå-
+lsquid:HiddenFieldCheck."CRename "responseService" which hides the field declared at line 30.(¤µğ“8¦«Õ¹å-
+tsquid:S3252o"QUse static access with "androidx.core.content.ContextCompat" for "startActivity".(î°ùÈøÿÿÿÿ8Œ©Ëáå-
+Hsquid:S1172)"*Remove this unused method parameter "age".(¿ÌĞ¤8ıĞúòå-

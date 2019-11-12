@@ -1,0 +1,18 @@
+
+ysquid:S1450"VRemove the "webView" field and declare it as a local variable in the relevant methods.(„Â ¿şÿÿÿÿ8âŒ—àå-
+qsquid:S1450"SRemove the "back" field and declare it as a local variable in the relevant methods.(Ä­ìé8ïÃŒáå-
+ssquid:S11922"PUse already-defined constant 'VIEW_TITLE' instead of duplicating its value here.(ä»¿ùÿÿÿÿ8«Ü¨áå-
+ssquid:S1450"VRemove the "spinner" field and declare it as a local variable in the relevant methods.(Ï‰¯8âŒ—àå-
+zsquid:S00116"VRename this field "share_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä²çúÿÿÿÿ8ê£Ûàå-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÙÉ£ùÿÿÿÿ8âŒ—àå-
+wsquid:S1450"YRemove the "detaiImage" field and declare it as a local variable in the relevant methods.(õ…­8âŒ—àå-
+ysquid:S00116"URename this field "title_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŸÃÍøÿÿÿÿ8ÌÊ½àå-
+vsquid:S1450"SRemove the "body" field and declare it as a local variable in the relevant methods.(ĞÒñãùÿÿÿÿ8âŒ—àå-
+}squid:S1450"ZRemove the "share_image" field and declare it as a local variable in the relevant methods.(ä²çúÿÿÿÿ8ê£Ûàå-
+\"squid:SwitchLastCaseIsDefaultCheckI""Add a default case to this switch.(×“¾ñùÿÿÿÿ8Æßàå-
+squid:S1450"\Remove the "toolbar_title" field and declare it as a local variable in the relevant methods.(Â¡Ìıÿÿÿÿ8¸‡›àå-
+zsquid:S1450"WRemove the "imageUrl" field and declare it as a local variable in the relevant methods.(Õ¹µÔıÿÿÿÿ8âŒ—àå-
+|squid:S00116"XRename this field "toolbar_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¡Ìıÿÿÿÿ8¸‡›àå-
+nsquid:S1301I"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8Æßàå-
+qsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(şÙÉ£ùÿÿÿÿ8âŒ—àå-
+|squid:S1450"YRemove the "title_view" field and declare it as a local variable in the relevant methods.(çŸÃÍøÿÿÿÿ8¼ë½àå-

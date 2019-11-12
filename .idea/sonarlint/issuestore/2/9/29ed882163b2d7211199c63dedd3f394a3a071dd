@@ -1,0 +1,7 @@
+
+lsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(²Ú±Ž8È¨žìå-
+]squid:S1161g":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ8È¨žìå-
+¤squid:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×þÿÿÿÿ8È¨žìå-
+Xsquid:S1161m":Add the "@Override" annotation above this method signature(ÞÊ—£8È¨žìå-
+dsquid:CallToDeprecatedMethodp"0Remove this use of "getColor"; it is deprecated.(Å¸Åýÿÿÿÿ8È¨žìå-
+dsquid:CallToDeprecatedMethods"0Remove this use of "getColor"; it is deprecated.(¦œ¿©ÿÿÿÿÿ8È¨žìå-
